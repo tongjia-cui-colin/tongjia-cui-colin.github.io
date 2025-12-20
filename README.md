@@ -1,2 +1,22 @@
-# tongjia-cui-colin.github.io
-Here, you can find a collection of my analytical work involving coding and statistics!
+# Tongjia (Colin) Cui - Applied Statistics Portfolio
+
+I am a graduate student in Applied Statistics with experience in regression modeling, statistical inference, and data analysis using real-world datasets.
+
+My work emphasizes careful model building, specification, diagnostics,and interpretation to generate reliable, decision-relevant insights from imperfect but real data.
+
+## Selected Projects
+
+### East Boston Gentrification Analysis
+Applied econometric and clustering analysis of block group level gentrification dynamics using census panel data.
+[View Project](https://github.com/tongjia-cui-colin/east-boston-gentrification)
+
+### Flint Water Crisis: Water Age Analysis
+Regression analysis examining (the limitations of) water age as a proxy for public health and social justice crisis, with a focus on diagnostics and model validity.
+[View Project](https://github.com/tongjia-cui-colin/flint-water-age-analysis)
+
+### Parental Education and Income Moderation
+Python-based regression and interaction modeling with modular class design in data cleaning, transformation, visualization, model building, and statistical testing.
+[View Project](https://github.com/tongjia-cui-colin/parent-education-income-moderation)
+
+## Interests
+Applied statistics, econometrics, data science, and quantitatively driven analysis for real-world decision-making.
