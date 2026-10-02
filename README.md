@@ -20,7 +20,7 @@ Python-based regression and interaction modeling with modular class design in da
 
 ### Cardiometabolic Health Across Demographic and Socioeconomic Groups
 Multivariate analysis of NHANES 2021–2023 data using MANOVA and discriminant analysis to examine differences in cardiometabolic health across demographic and socioeconomic groups.
-[View Project[(https://github.com/tongjia-cui-colin/nhanes-cardiometabolic-analysis)
+[View Project](https://github.com/tongjia-cui-colin/nhanes-cardiometabolic-analysis)
 
 ## Interests
 Applied statistics, data analytics, data science, and quantitatively driven analysis for real-world decision-making.
