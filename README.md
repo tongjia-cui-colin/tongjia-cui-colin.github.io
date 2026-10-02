@@ -18,5 +18,9 @@ Regression analysis examining (the limitations of) water age as a proxy for publ
 Python-based regression and interaction modeling with modular class design in data cleaning, transformation, visualization, model building, and statistical testing.
 [View Project](https://github.com/tongjia-cui-colin/parent-education-income-moderation)
 
+### Cardiometabolic Health Across Demographic and Socioeconomic Groups
+Multivariate analysis of NHANES 2021–2023 data using MANOVA and discriminant analysis to examine differences in cardiometabolic health across demographic and socioeconomic groups.
+[View Project[(https://github.com/tongjia-cui-colin/nhanes-cardiometabolic-analysis)
+
 ## Interests
-Applied statistics, econometrics, data science, and quantitatively driven analysis for real-world decision-making.
+Applied statistics, data analytics, data science, and quantitatively driven analysis for real-world decision-making.
